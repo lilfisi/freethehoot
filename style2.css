@@ -1,0 +1,15 @@
+h1{
+    font-family: Tahoma;
+    font-size: 30px;
+    color: #777777;
+    text-align: center;
+}
+ol{
+    font-family: 'Courier New';
+    font-size: 1.4rem;
+    color: #777777;
+}
+button{
+    background-color: #2f91fb;
+    color: white;
+}

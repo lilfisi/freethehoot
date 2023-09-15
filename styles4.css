@@ -1,0 +1,27 @@
+#index, #footer {
+    background-color: #f1f1f1;
+    border: 1px solid gray;
+}
+
+#index:first-child{
+    font-weight: bold;
+    font-weight: italic;
+    font-size: 1rem;
+margin-left: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+ol li{
+    opacity: 1;
+    transition: .5s ease all;
+}
+ol li:hover{
+cursor: pointer;
+opacity: .6;
+transition: .5s ease all;
+}
+ul li::before{
+    content: ;
+}
